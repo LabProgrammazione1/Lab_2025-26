@@ -60,6 +60,25 @@ Esercizi: [Github](https://github.com/LabProgrammazione1/Lab_2025-26) --> https:
 
 *Controllate periodicamente per avvisi, variazioni calendario lezioni, materiali del corso, date appelli, ...*
 
+#### Avviso: Ciclo di incontri di tutoraggio di Programmazione
+
+Si informano gli studenti dell'inizio di un ciclo di incontri di tutoraggio per l'insegnamento di Programmazione. L'iniziativa è rivolta a tutti coloro che devono ancora superare l'esame.
+
+Le sessioni seguiranno il seguente **calendario**:
+
+- Venerdì 17/04/2026
+- Venerdì 24/04/2026
+- Venerdì 08/05/2026
+- Venerdì 15/05/2026
+- Venerdì 22/05/2026
+- Venerdì 29/05/2026
+
+**Dettagli logistici**:
+
+**Orario:** 13:30 – 16:30
+**Luogo:** Aula Sigma
+
+La partecipazione è caldamente raccomandata per integrare la preparazione individuale in vista delle prossime sessioni d'appello.
 
 ### Obiettivi del corso
 
